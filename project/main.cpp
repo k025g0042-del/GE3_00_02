@@ -1,9 +1,4 @@
-#include <cstdlib>
-#include "TestFunction.h"
-
-void TestFunction() {
-	exit(0);
-}
+#include "../Test/TestFunction.h"
 
 int main() {
 
